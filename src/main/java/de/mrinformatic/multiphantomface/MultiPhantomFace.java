@@ -6,7 +6,6 @@ import de.mrinformatic.multiphantomface.item.ItemPhantomFaceConnector;
 import de.mrinformatic.multiphantomface.tile.TileMultiPhantomFace;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.util.ResourceLocation;
@@ -18,7 +17,6 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.network.NetworkRegistry;
 import net.minecraftforge.fml.common.registry.ForgeRegistries;
 import net.minecraftforge.fml.common.registry.GameRegistry;
-import net.minecraftforge.registries.ForgeRegistry;
 import org.apache.logging.log4j.Logger;
 
 @Mod(modid = MultiPhantomFace.MOD_ID, version = "1.0.4", name = "Multi Phantom Face", useMetadata=true)
