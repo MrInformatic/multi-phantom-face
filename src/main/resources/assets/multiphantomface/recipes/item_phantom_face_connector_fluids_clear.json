@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "multiphantomface:item_phantom_face_connector_fluids",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "multiphantomface:item_phantom_face_connector_fluids",
+    "count": 1,
+    "data": 0
+  }
+}

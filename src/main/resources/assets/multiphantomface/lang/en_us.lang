@@ -1,0 +1,10 @@
+item.multiphantomface.phantom_face_connector_items.name=Phantom Face Connector (Items)
+item.multiphantomface.phantom_face_connector_fluids.name=Phantom Face Connector (Fluids)
+item.multiphantomface.phantom_face_connector_energy.name=Phantom Face Connector (Energy)
+
+tile.multiphantomface.multi_phantom_face.name=Multi Phantom Face
+
+container.multiphantomface.multi_phantom_face.name=Multi Phantom Face
+
+tooltip.multiphantomface.boundTo.desc=Bound to
+tooltip.multiphantomface.clearStorage.desc=Place in Crafting Grid to clear storage!

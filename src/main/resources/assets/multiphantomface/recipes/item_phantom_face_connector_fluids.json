@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    },
+    "b": {
+      "type": "forge:ore_dict",
+      "ore": "gemDiamond"
+    },
+    "c": {
+      "type": "forge:ore_dict",
+      "ore": "enderpearl"
+    },
+    "d": {
+      "item": "minecraft:bucket",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "multiphantomface:item_phantom_face_connector_fluids",
+    "count": 1,
+    "data": 0
+  }
+}

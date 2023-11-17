@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "chest"
+    },
+    "b": {
+      "type": "forge:ore_dict",
+      "ore": "blockRedstone"
+    },
+    "c": {
+      "item": "minecraft:bucket",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "multiphantomface:block_multi_phantom_face",
+    "count": 1,
+    "data": 0
+  }
+}
